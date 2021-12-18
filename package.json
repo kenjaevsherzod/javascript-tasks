@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kenjaevsherzod/javascript-tasks/issues"
   },
-  "homepage": "https://github.com/kenjaevsherzod/javascript-tasks#readme"
+  "homepage": "https://github.com/kenjaevsherzod/javascript-tasks#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
 }
