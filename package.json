@@ -1,0 +1,19 @@
+{
+  "name": "javascript-tasks",
+  "version": "1.0.0",
+  "description": "tasks of javascript tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenjaevsherzod/javascript-tasks.git"
+  },
+  "author": "Sherzod Kenjaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenjaevsherzod/javascript-tasks/issues"
+  },
+  "homepage": "https://github.com/kenjaevsherzod/javascript-tasks#readme"
+}
