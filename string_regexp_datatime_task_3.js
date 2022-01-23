@@ -3,5 +3,5 @@
 let date = new Date();
 
 console.log("The Year: " + date.getFullYear());
-console.log("The Month: " + date.getMonth());
-console.log("The Day: " + date.getDay());
+console.log("The Month: " + (date.getMonth() + 1));
+console.log("The Day: " + date.getDate());
