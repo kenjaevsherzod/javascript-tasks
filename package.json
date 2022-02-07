@@ -4,7 +4,7 @@
   "description": "tasks of javascript tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/kenjaevsherzod/javascript-tasks#readme",
   "devDependencies": {
-    "fs-extra": "^10.0.0"
+    "chai": "^4.3.6",
+    "fs-extra": "^10.0.0",
+    "mocha": "^9.2.0"
   }
 }
